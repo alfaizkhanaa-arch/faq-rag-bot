@@ -1,0 +1,61 @@
+# Company FAQ
+
+## Q1: What services do you offer?
+
+**Answer:** We provide AI development, web application development, mobile app development, cloud deployment, and data analytics solutions for businesses.
+
+## Q2: What are your business hours?
+
+**Answer:** Our business hours are Monday to Friday, 9:00 AM to 6:00 PM (IST). We are closed on weekends and public holidays.
+
+## Q3: How can I contact customer support?
+
+**Answer:** You can contact customer support by emailing [support@example.com](mailto:support@example.com) or calling +91-9876543210 during business hours.
+
+## Q4: What is your refund policy?
+
+**Answer:** Customers can request a refund within 7 days of purchase if the service has not been fully delivered. Refund requests are reviewed within 3 business days.
+
+## Q5: How do I reset my password?
+
+**Answer:** Click on the "Forgot Password" link on the login page, enter your registered email address, and follow the instructions sent to your email.
+
+## Q6: How long does project development take?
+
+**Answer:** Project timelines vary depending on the complexity. Small projects typically take 2–4 weeks, while larger projects may take several months.
+
+## Q7: Do you offer free consultations?
+
+**Answer:** Yes. We offer a free 30-minute consultation to understand your requirements and recommend the best solution.
+
+## Q8: Which payment methods do you accept?
+
+**Answer:** We accept UPI, credit cards, debit cards, net banking, and bank transfers.
+
+## Q9: Can I cancel my order?
+
+**Answer:** Yes. Orders can be canceled before work has started. Once development has begun, cancellation charges may apply.
+
+## Q10: Do you provide project updates?
+
+**Answer:** Yes. Clients receive weekly progress reports along with milestone demonstrations throughout the project.
+
+## Q11: Is my data secure?
+
+**Answer:** Yes. We use encryption, secure cloud infrastructure, and strict access controls to protect customer data.
+
+## Q12: Do you provide technical support after project delivery?
+
+**Answer:** Yes. We provide free technical support for 30 days after project delivery. Extended maintenance plans are also available.
+
+## Q13: Which technologies do you use?
+
+**Answer:** We work with Python, FastAPI, Streamlit, LangChain, React, Node.js, Docker, PostgreSQL, MongoDB, and cloud platforms such as AWS and Azure.
+
+## Q14: Do you build AI chatbots?
+
+**Answer:** Yes. We build AI chatbots using large language models, retrieval-augmented generation (RAG), vector databases, and modern AI frameworks.
+
+## Q15: How can I request a project quotation?
+
+**Answer:** Submit your project requirements through our contact form or email us. We usually provide a detailed quotation within two business days.
