@@ -2,20 +2,24 @@
 
 An AI-powered FAQ chatbot that answers questions from uploaded documents using **LangChain**, **ChromaDB**, **Hugging Face Embeddings**, **Groq LLM**, and **Streamlit**.
 
-Users can upload FAQ documents (PDF/TXT), and the chatbot retrieves the most relevant information before generating accurate, context-aware answers.
+Users can upload **PDF, DOCX, and TXT** documents, and the chatbot retrieves the most relevant information before generating accurate, context-aware answers.
+
 
 ---
 
 ## 🚀 Features
 
-* 📄 Upload multiple PDF and TXT documents
-* ✂️ Automatic document chunking
-* 🔍 Semantic search using vector embeddings
-* 🤖 AI-powered question answering with a Large Language Model
-* 📚 Source document tracking
+* 📄 Upload multiple **PDF, DOCX, and TXT** documents
+* 📑 Automatic document loading based on file type
+* ✂️ Intelligent text chunking using `RecursiveCharacterTextSplitter`
+* 🔍 Semantic search using Hugging Face embeddings
+* 🗂️ Vector storage with ChromaDB
+* 🤖 AI-powered question answering using a Large Language Model
+* 📚 Displays the source document for each answer
 * 📊 Confidence score for retrieved answers
 * 💬 Interactive Streamlit chat interface
-* ⚡ Fast document retrieval using ChromaDB
+* ⚡ Fast and context-aware document retrieval
+
 
 ---
 
